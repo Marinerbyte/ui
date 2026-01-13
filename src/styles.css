@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  background: #0b0f14;
+  color: #0ff;
+  font-family: system-ui;
+}
+
+.app {
+  padding: 12px;
+}
+
+.card {
+  background: #111;
+  border: 1px solid #0ff;
+  border-radius: 12px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  background: black;
+  color: #0ff;
+  border: 1px solid #0ff;
+}
+
+button {
+  margin-top: 6px;
+  width: 100%;
+  background: #0ff;
+  color: black;
+  padding: 8px;
+  border: none;
+  border-radius: 8px;
+}
